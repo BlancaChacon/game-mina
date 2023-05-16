@@ -1,5 +1,8 @@
     body {
-        background-color: indigo;
+        background-image: url("./pexels-adam-krypel-7649132.jpg");
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
         color: #fff;  
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         margin: 0;
@@ -26,9 +29,9 @@
     }
     
     canvas {
-        border: 4px solid #ff6600;
+        border: 4px solid blue;
         border-radius: 8px;
-        background-color: #feff9d;
+        background-color: indigo;
     }
     
     .btns {
